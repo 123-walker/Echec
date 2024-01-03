@@ -1,0 +1,59 @@
+body{
+     background-image: url("../Images/jesus-cross-02-920x518.jpg"); 
+     background-repeat: no-repeat;
+     margin: 25px 25px 25px 25px;
+     
+     background-size: cover;
+
+     
+     
+}
+h1 {
+    text-align: center;
+    font-family: "Calibri light";
+    font-size: 60px;
+    color: white;
+    padding-top : 7cm;
+    padding-left: 3cm;
+    padding-bottom: 6cm;
+    padding-right: 3cm;
+    border-bottom: 2px black;
+}
+
+.doc {
+      text-align: center;
+      font-family: "Calibri light";
+      text-decoration: none;
+      padding-left: auto;
+      box-shadow: 2px 2px 4px blue;
+      box-sizing: content-box;
+      font-size: 30px;
+      color:white
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
